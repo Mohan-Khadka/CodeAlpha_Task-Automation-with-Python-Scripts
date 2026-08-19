@@ -1,0 +1,10 @@
+ram@gmail.com
+sita@gmail.com
+info@company.org
+support@helpdesk.net
+manager@project.io
+inquiries@business.com
+emergency@emergency.org
+contact@example.com
+tech@company.org
+sales@company.org

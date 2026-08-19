@@ -1,0 +1,17 @@
+Hello, my name is Ram.
+My email is ram@gmail.com.
+
+You can contact Sita at sita@gmail.com.
+Another email is ram@gmail.com.
+
+Company contact: info@company.org
+Support: support@helpdesk.net
+Manager: manager@project.io
+Inquiries: inquiries@business.com
+Emergency: emergency@emergency.org
+Contact: contact@example.com
+Tech team: tech@company.org
+Sales: sales@company.org
+
+Duplicate email: ram@gmail.com
+Another duplicate: SITA@GMAIL.COM
